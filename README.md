@@ -4,4 +4,4 @@
 
 ![email tempelate](https://github.com/user-attachments/assets/d186045a-b544-49ba-a792-161ed422a424)
 
-https://www.figma.com/proto/WJPtQBstkYXs9bCCnsD56J/Resturant-Menu?t=BBJhMOrxg5uOI7ni-1
+https://www.figma.com/design/WJPtQBstkYXs9bCCnsD56J/Resturant-Menu?node-id=64-69&t=BBJhMOrxg5uOI7ni-1
